@@ -57,24 +57,25 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝑩𝑨𝑹𝑨𝑲𝑨-𝑴𝑫-𝑩𝑶𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
+*YESSER-𝑴𝑫-𝑩𝑶𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-~𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔~
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+~support my channel guys 🥺
+> https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+-support my way group guys 🥺
+https://chat.whatsapp.com/DFmm1OBboewBk9kEDBrfNv
+❒❒❒🤠❒❒❒❒HERE❒WE❒❒❒GO❒❒❒❒
 ~𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘~
-> https://github.com/ibrahimaitech 
-> https://github.com/Barakabegaa
+> https://www.youtube.com/@Yesserboy92
+> https://github.com/Yassin994
+> https://www.facebook.com/yesser.boy92?mibextid=ZbWKwL
+> https://wa.me/255621995482
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
- ~𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓~
-> https://wa.me/message/5FF6DYYUQXKSL1
-> https://wa.me/message/74F2PC4JA4F3P1
+ *keep using this pair*
 
-*𝑴𝑨𝑫𝑬 𝑩𝒀 𝑩𝑨𝑹𝑨𝑲𝑨 𝑩𝑬𝑮𝑨*❒❒❒❒❒❒❒❒❒`
+*𝑴𝑨𝑫𝑬 𝑩𝒀 yessertech🤠`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
